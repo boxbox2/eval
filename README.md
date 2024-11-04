@@ -5,4 +5,4 @@
 
 使用预训练模型推理``python eval_new.py --catagory screw``
 
-[谷歌云盘](https://github.com/boxbox2/eval/tree/master )
+[谷歌云盘](https://drive.google.com/drive/folders/1MqI-MTH8VyIVoDj33SrRNAfVbaCQ8Kbp?hl=zh-cn)
